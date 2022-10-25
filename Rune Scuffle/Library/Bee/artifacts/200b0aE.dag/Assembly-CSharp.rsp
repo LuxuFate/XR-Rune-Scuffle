@@ -367,6 +367,7 @@
 "Assets/Scripts/Spells/Create Terrain.cs"
 "Assets/Scripts/Spells/Fireball.cs"
 "Assets/Scripts/Spells/Lightning Bolt.cs"
+"Assets/Scripts/Spells/Shield.cs"
 "Assets/Scripts/Spells/Spell.cs"
 -langversion:9.0
 

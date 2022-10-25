@@ -14,6 +14,6 @@ public class LightningBolt : Spell {
     }
     
     protected override void activateSpell() {
-        
+        //Fast low damage projectile with chance of paralysis
     }
 }

@@ -14,6 +14,6 @@ public class CreateTerrain : Spell {
     }
     
     protected override void activateSpell() {
-        
+        // Create rock in front that blocks most projectiles
     }
 }

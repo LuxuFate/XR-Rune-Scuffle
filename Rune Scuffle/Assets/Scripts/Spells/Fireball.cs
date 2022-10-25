@@ -14,6 +14,6 @@ public class Fireball : Spell {
     }
 
     protected override void activateSpell() {
-        
+        //Slow high damaging projectile
     }
 }

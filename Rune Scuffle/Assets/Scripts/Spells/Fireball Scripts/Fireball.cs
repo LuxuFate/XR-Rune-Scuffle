@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class LightningBolt : Spell {
+public class Fireball : MonoBehaviour {
     // Start is called before the first frame update
     void Start() {
         
@@ -12,8 +12,9 @@ public class LightningBolt : Spell {
     void Update() {
         
     }
-    
-    protected override void activateSpell() {
-        //Fast low damage projectile with chance of paralysis
+
+    private void OnTriggerEnter(Collider other) {
+        
     }
+
 }

@@ -7,7 +7,6 @@ public class Player : MonoBehaviour {
     private int currentHP;
     [SerializeField] int maxHP;
 
-    [SerializeField] bool isDummy;
 
     void Start() {
         currentHP = maxHP;

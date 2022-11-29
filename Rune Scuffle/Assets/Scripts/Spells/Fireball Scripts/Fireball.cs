@@ -14,7 +14,7 @@ public class Fireball : MonoBehaviour {
     }
 
     private void OnTriggerEnter(Collider other) {
-        
+        // Deal damage to target and disappear
     }
 
 }

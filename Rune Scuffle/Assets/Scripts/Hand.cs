@@ -8,7 +8,6 @@ public class Hand : MonoBehaviour {
     [SerializeField] public InputActionReference controllerActionTrigger;
     private XRDirectInteractor interactor;
     private float prevTrigger = 0f;
-    // [SerializeField] 
 
     private void Start() {
         interactor = GetComponent<XRDirectInteractor>();
